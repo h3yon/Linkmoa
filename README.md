@@ -16,24 +16,27 @@
 6. 업적 : iOS분야 163위
 7. 기간 : 13주(8주 - 기획 및 디자인 기간 ,5주 - 개발 기간)
 ```
+<br>
 
 ### 2. Linkmoa를 더 자세히 보고 싶다면?
 1) 영상 링크: https://youtu.be/0O9ToInqADY
 2) 어플 다운 가능 링크: https://apps.apple.com/kr/app/%EB%A7%81%ED%81%AC%EB%AA%A8%EC%95%84-%EB%B6%81%EB%A7%88%ED%81%AC-%EA%B3%B5%EC%9C%A0-%EC%95%B1/id1559681268
 
-### 2. 스크린샷
+<br>
 
-![image](https://user-images.githubusercontent.com/46602874/115874410-082e8380-a47f-11eb-916d-810d4f23ecb1.png)
+### 3. 스크린샷
+
 - 나만의 링크달(폴더) 추가
+![image](https://user-images.githubusercontent.com/46602874/115874410-082e8380-a47f-11eb-916d-810d4f23ecb1.png)
 
-![image](https://user-images.githubusercontent.com/46602874/115874492-20060780-a47f-11eb-937b-5f13c2153620.png)
 - 사용하는 웹사이트에서 바로 링크 추가 가능(Share Extension)
+![image](https://user-images.githubusercontent.com/46602874/115874492-20060780-a47f-11eb-937b-5f13c2153620.png)
 
-![image](https://user-images.githubusercontent.com/46602874/115874607-3e6c0300-a47f-11eb-8568-626f98532a3e.png)
 - 다른 유저가 추가한 링크달(폴더)를 조회하여 지식 공유
+![image](https://user-images.githubusercontent.com/46602874/115874607-3e6c0300-a47f-11eb-8568-626f98532a3e.png)
 
-![image](https://user-images.githubusercontent.com/46602874/115874666-4fb50f80-a47f-11eb-84fd-4b1b411d456d.png)
 - 검색으로 원하는 링크달(폴더) 혹은 링크 검색
+![image](https://user-images.githubusercontent.com/46602874/115874666-4fb50f80-a47f-11eb-84fd-4b1b411d456d.png)
 
-![image](https://user-images.githubusercontent.com/46602874/115874733-68bdc080-a47f-11eb-8cd9-d1d3f44f1d55.png)
 - 링크달? 가리비?
+![image](https://user-images.githubusercontent.com/46602874/115874733-68bdc080-a47f-11eb-8cd9-d1d3f44f1d55.png)
