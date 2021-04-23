@@ -3,6 +3,8 @@
 <img width="728" alt="KakaoTalk_Photo_2021-03-28-16-19-07" src="https://user-images.githubusercontent.com/46602874/115874076-aa9a3700-a47e-11eb-9026-04d8eb94d4c9.png">
 나만의 링크달을 저장하고 관리할 수 있는 링크모아입니다.
 
+<br>
+
 ### 1. Linkmoa에 대해서
 
 <img width="1078" alt="스크린샷 2021-04-23 오후 9 52 55" src="https://user-images.githubusercontent.com/46602874/115873765-4bd4bd80-a47e-11eb-8004-9185ff34a433.png">
