@@ -3,6 +3,10 @@
 <img width="728" alt="KakaoTalk_Photo_2021-03-28-16-19-07" src="https://user-images.githubusercontent.com/46602874/115874076-aa9a3700-a47e-11eb-9026-04d8eb94d4c9.png">
 나만의 링크달을 저장하고 관리할 수 있는 링크모아입니다.
 
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/46602874/175038473-bde198bf-8f19-4775-b279-c14b1f7eccf7.png">
+
+Modu팀의 Linkmoa Server
+
 <br>
 
 ### 1. Linkmoa에 대해서
