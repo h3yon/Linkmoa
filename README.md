@@ -4,8 +4,8 @@
 나만의 링크달을 저장하고 관리할 수 있는 링크모아입니다.
 
 <img width="927" alt="image" src="https://user-images.githubusercontent.com/46602874/175038473-bde198bf-8f19-4775-b279-c14b1f7eccf7.png">
-
-Modu팀의 Linkmoa Server
+  
+Modu팀의 Linkmoa Server 개발 후 따로 나눠놓은 레퍼지토리입니다.
 
 <br>
 
